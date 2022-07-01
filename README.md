@@ -1,0 +1,2 @@
+# Studentportal
+Student  curd,opration 
